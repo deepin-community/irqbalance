@@ -1,0 +1,3 @@
+#!/usr/bin/dh-exec
+misc/irqbalance.env => /etc/default/irqbalance
+misc/irqbalance.service /lib/systemd/system
